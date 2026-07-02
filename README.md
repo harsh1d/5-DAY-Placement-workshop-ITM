@@ -11,5 +11,5 @@ git add .
 git commit -m "Add example.txt"
 
 4. Push to GitHub:
-
+git add .
 git push origin main
