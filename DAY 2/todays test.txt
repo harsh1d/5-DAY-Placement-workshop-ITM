@@ -1,0 +1,155 @@
+more
+Disable
+up
+Disable until next visit
+Disable for this page
+Disable for this website
+Disable globally
+You can re-enable in setting
+question-ai-logo
+managemanage
+managemanage
+useruser
+fullfull
+closeclose
+Chat AI
+Hello! Is there any question I can help you with?
+What is the purpose of student government in the United States?
+What is the longest war in American history?
+Ask AI
+
+Quiz-1 for Workshop on "DS &   Algorithmic Thinking for placement preparation
+Total points
+10/10
+ 
+Dear Student,
+please enjoy the quiz!!!
+Email
+*
+itmbu.harsh@gmail.com
+0 of 0 points
+Enrollment  No. of the student
+23C22009
+Name. of the student as per Roll List
+*
+HARSH DEVRE
+Branch of the student
+*
+CSE
+IT
+AI
+CSN
+Solve the following questions
+10 of 10 points
+Which asymptotic notation provides the tightest bound on the growth rate of an algorithm?
+*
+1/1
+A. O(n)
+B. Ω(n)
+C. Θ(n)
+D. o(n)
+ Consider the following code:
+for(int i=1; i<=n; i++)
+for(int j=1; j<=i*i; j++)
+printf("*");
+The time complexity is:
+
+*
+1/1
+A. O(n²)
+B. O(n³)
+C. O(n log n)
+D. O(n⁴)
+  Which statement is TRUE?  
+*
+1/1
+A. Every Θ(f(n)) is also O(f(n)).
+B. Every O(f(n)) is Θ(f(n)).
+C. Every Ω(f(n)) is Θ(f(n)).
+D. None of these.
+Which algorithm has the smallest asymptotic growth?
+*
+1/1
+A. O(n²)
+B. O(log n)
+C. O(n log n)
+D. O(n)
+What is the complexity of the following code?
+for(i=1; i<n; i*=2)
+printf("%d",i);
+*
+1/1
+A. O(n)
+B. O(log n)
+C. O(n log n)
+D. O(√n)
+Which notation represents the best-case complexity?
+*
+1/1
+A. O
+B. Ω
+C. Θ
+D. o
+ Consider:
+for(i=1;i<=n;i++)
+for(j=1;j<=n;j++)
+for(k=1;k<=100;k++)
+printf("*");
+Time complexity is:
+
+*
+1/1
+O(n³)
+B. O(n²)
+C. O(100n²)
+D. Θ(100)
+What is the output of the following C program?
+#include <stdio.h>
+
+void fun(int n)
+{
+if(n==0)
+return;
+
+printf("%d ", n);
+fun(n-1);
+printf("%d ", n);
+}
+
+int main()
+{
+fun(3);
+return 0;
+}
+*
+1/1
+A. 3 2 1
+B. 1 2 3
+C. 3 2 1 1 2 3
+D. 3 2 1 3 2 1
+What is the maximum recursion depth of the following function?
+void fun(int n)
+{
+if(n==0)
+return;
+
+fun(n/3);
+}
+*
+1/1
+A. O(n)
+B. O(log₂n)
+C. O(log₃n)
+D. O(√n)
+  Using the Master Theorem, solve T(n) = 8T(n/2) + n²:
+
+*
+1/1
+A) Θ(n²)
+B) Θ(n² log n)
+C) Θ(n³)
+D) Θ(n log n)
+This form was created inside of ITM (SLS) BARODA UNIVERSITY. - Contact form owner
+Does this form look suspicious? Report
+
+Google Forms
